@@ -53,4 +53,4 @@ class Manifiesto():
             return True
         else:
             return False
-        
+
